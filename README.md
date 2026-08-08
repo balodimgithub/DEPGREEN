@@ -1,5 +1,5 @@
 # DEPGREEN
-This is an application meant to solve most of Africa environment pollution problems, with regular and In-demand requests for waste disposal, reports for mis-conducts of regulations, earn during waste disposal through re-usable plastic recycling, a constant learning platform with DEPGREEN-AI. We aim gear Africa waste disposal system fully Green.
+This is an application meant to solve most of Africa environment pollution problems, with regular and In-demand requests for waste disposal, reports for mis-conducts of environmental regulations, earn during waste disposal through re-usable plastic recycling, a constant learning platform with DEPGREEN-AI. We aim to gear Africa waste disposal system to be fully Green.
 # DEPGREEN — Client Application (MVP)
 
 A Next.js client-side application for DEPGREEN's fast, regular waste
