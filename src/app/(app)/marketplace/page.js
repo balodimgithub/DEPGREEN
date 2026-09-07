@@ -20,9 +20,8 @@ export default function Marketplace() {
       <Eyebrow>Marketplace</Eyebrow>
       <Header className="mt-2">Your cleaning equipment</Header>
       <Paragraph className="mt-1">
-        Equipment listed under DEPGREEN&rsquo;s capital expenditure is issued
-        to every household at registration. Need a replacement or an extra
-        piece? Explore the marketplace below.
+        Equipment allocated {`aren't`} sufficient or lost get your cleaning tools in the marketplace for an affordable price.
+       .
       </Paragraph>
 
       <div className="mt-6 flex gap-2 rounded-full bg-clay-100/60 p-1 w-fit">
